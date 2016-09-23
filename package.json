@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Denis Gorbunov",
+    "email": "gorbunov.d.i@gmail.com"
+  },
+  "name": "udf-demo",
+  "version": "1.0.0",
+  "main": "./src/main.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "systemjs": "^0.19.38",
+    "systemjs-plugin-babel": "0.0.15"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
